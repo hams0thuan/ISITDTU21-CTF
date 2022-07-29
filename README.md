@@ -36,3 +36,6 @@ Và chúng ta có một list cầu thủ toàn các siêu sao...
 ![image](https://user-images.githubusercontent.com/93731698/143735842-cc96fc5d-7b9d-4019-8c32-a353f8b3f2a5.png)
 
 Đến đây khá là mù mịt vì mình không biết phải bắt đầu từ đâu nữa :v mình đã thử rất nhiều flag dưới dạng format 7{7_2_10}. Và rồi mình nhận ra đây là lúc sử dụng cái file Go find the flag.txt ban đầu. Và mình đã thấy ý nó bảo hãy nhìn tới các kí tự cuối của mỗi cái tên cầu thủ ( Đồng thời trước đó mình cũng nghi ngờ vì tổng kí tự cần của flag là 26 và cũng có 26 cầu thủ). Cuối cùng cũng đã có flag đó là " isitdtu{nothing_is_impossible} "
+
+
+
